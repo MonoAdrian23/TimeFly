@@ -1,0 +1,9 @@
+---
+messages:
+  boost_running: "§bEs läuft bereits ein Flybooster!"
+  boost_cooldown: "§cDu kannst heute keinen Flybooster mehr benutzen!"
+  announce: "{player} §aaktiviert den Flybooster jeder kann nun 10 Minuten fliegen!"
+  expire: "§bDer Flybooster ist abgelaufen! Du kannst nicht mehr fliegen"
+
+fly_duration: 600 #Fly duration in seconds, 60 = 1 minute
+...

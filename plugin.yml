@@ -1,0 +1,7 @@
+---
+name: TimeFly
+version: 0.0.1
+main: MonoAdrian23\TimeFly\Main
+api: 3.14.0
+description: "§aAktiviere den Flybooster"
+...
