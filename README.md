@@ -1,6 +1,6 @@
 # TimeFly
 Fügt einen Zeitbasierten Flybooster deinem PocketmineMP Server hinzu
-Installiere die .phar Datei auf deinem PocketmineMP Server.
+Installiere die .phar Datei auf deinem PocketmineMP Server, diese befindet sich im ZIP Ordner
 Restarte deinen Server.
 Nun wird eine config.yml bei Plugin Data erstellt.
 Dort kannst du die Zeit des Boosters festlegen.
